@@ -1,2 +1,2 @@
 # SQLiteCRUD
-Sqlite CRUP operation example using c# Winform Application
+Sqlite CRUD operation example using c# Winform Application
